@@ -1,0 +1,59 @@
+
+body{
+    background-color: #f7f7f2;
+    color: #1f2933;
+
+    font-family: "Open Sans", sans-serif;
+
+    line-height: 1.6;
+
+    margin: 0;
+    padding: 2rem;
+}
+
+article{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* H1 */
+h1{
+    font-size: 2.5rem;
+    font-family: "Merriweather", serif;
+}
+
+/* H2 */
+h2{
+    color: #0b6e4f;
+    font-size: 1.75rem;
+    font-family: "Merriweather", serif;
+}
+
+/* Párrafos */
+p{
+    font-size: 1.125rem;
+}
+
+/* Categoría */
+.categoria{
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: #0b6e4f;
+}
+
+/* Autor */
+.autor{
+    color: rgb(31 41 51 / 70%);
+}
+
+/* Enlace */
+a{
+    color: #0b6e4f;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
